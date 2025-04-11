@@ -3,16 +3,16 @@
 <div align="center">
   <img src="https://assets.leetcode.com/users/Johnn2012-y/avatar_1743607647.png" width="150" height="150" style="border-radius: 50%;">
   
-  <h3>👨‍💻 Passionate about Competitive Programming & Software Development</h3>
-
-  🚀 Solving problems on <b>LeetCode</b>, building awesome projects, and learning new technologies every day!
+  <h3>Algorithms | OI <- participant -> OAI | AI Enthusiast</h3>
 </div>
 
 ---
 
 <h2 align="center">🚀 LeetCode Stats</h2>
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Johnn2012-y&theme=dark" alt="LeetCode Stats">
+  <a href="https://leetcode.com/Johnn2012-y">
+    <img src="https://leetcard.jacoblin.cool/Johnn2012-y?theme=dark" alt="LeetCode Stats">
+  </a>
 </div>
 
 ---
