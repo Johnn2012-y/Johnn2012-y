@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Johnn2012-y&show_icons=true&theme=dark" alt="GitHub Stats"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnn2012-y&layout=compact&theme=dark" alt="Most Used Languages"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnn2012-y&theme=dark&layout=donut&hide_border=true" alt="top langs" height="180"></td>
     </tr>
   </table>
 </div>
